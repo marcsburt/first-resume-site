@@ -13,6 +13,16 @@ h2{
 padding-bottom: 40px;
 }
 
+.btn-custom-light{
+color: white;
+background-color:rgba(0, 0, 0, 0.01);
+border:2px solid;
+border-color: white;
+font-size: 20px;
+
+}
+
+
 .fa{
 	margin-botton: 0px;
 	padding-bottom: 0px;
