@@ -4,12 +4,9 @@ body{
 
 h1{
 	font-size: 300%;
-	padding: 25px;
+	padding: 10px, 0px, 15px, 0px;
 }
 
-h1>.heading-padding{
-	padding-top: 10px;
-}
 
 .navbar{
     opacity: 0.5;
