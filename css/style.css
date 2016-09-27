@@ -28,7 +28,7 @@ h1{
 
 .jumbotron{
 background-image:
-	linear-gradient(rgba(76, 127, 178, 0.6), rgba(76, 127, 178, 0.6),
+	linear-gradient(rgba(76, 127, 178, 0.6), rgba(76, 127, 178, 0.6)),
 	url("img/startup.jpg");
 background-size: cover;
 }	
