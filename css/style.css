@@ -27,12 +27,11 @@ h1{
 }
 
 .jumbotron{
-background-image:
-	linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-	url("img/startup.jpg");
-	background-color: #cccccc;
-	background-size: cover;
-}	
+    background-image:
+        linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), 
+        url('/img/startup.jpg');
+}
+
 .dark-back {
   background: #4C7FB2; /* For browsers that do not support gradients */
  /* background: -webkit-linear-gradient(bottom, #6FA9BD , #9DBEC9); /* For Safari 5.1 to 6.0 */
