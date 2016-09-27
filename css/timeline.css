@@ -108,13 +108,13 @@
   padding:0;
     text-transform: none;
     font-size:18px;
-    color:#f2f2f2;
+    color: white;
 }
 
 .timeline .timeline-body>p,
 .timeline .timeline-body>ul {
     margin-bottom: 0;
-    color:#f2f2f2;
+    color: white;
 }
 /*Style for even div.line*/
 .timeline>li:nth-child(odd) .line:before {
@@ -125,7 +125,7 @@
     left: 690px;
     width: 4px;
     height:340px;
-    background-color: grey;
+    background-color: white;
     -ms-transform: rotate(-44deg); /* IE 9 */
     -webkit-transform: rotate(-44deg); /* Safari */
     transform: rotate(-44deg);
