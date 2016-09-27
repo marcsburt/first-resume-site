@@ -7,6 +7,10 @@ h1{
 	padding: 25px;
 }
 
+h1>.heading-padding{
+	padding-top: 10px;
+}
+
 .navbar{
     opacity: 0.5;
     filter: alpha(opacity=50); /* For IE8 and earlier */
