@@ -5,7 +5,7 @@ body{
 h1{
 	text-align: center;
 	font-size: 300%;
-	padding: 50px, 0px, 25px, 0px;
+	padding-bottom: 75px;
 }
 
 .row{
@@ -17,10 +17,6 @@ padding-bottom: 75px;
 .navbar{
     opacity: 0.5;
     filter: alpha(opacity=50); /* For IE8 and earlier */
-}
-
-.jumbo-huge{
-	height: 600px
 }
 
 .vertical-center {
