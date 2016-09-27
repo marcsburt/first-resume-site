@@ -32,3 +32,8 @@ h1{
  /* background: -moz-linear-gradient(bottom, #6FA9BD , #9DBEC9); /* For Firefox 3.6 to 15 */
  /* background: linear-gradient(to bottom, #6FA9BD , #9DBEC9); /* Standard syntax */
 }
+#faded-background-image{
+background-image:
+	linear-gradient(rgba(76, 127, 178, 0.6), rgba(76, 127, 178, 0.6),
+	url("/img/startup.jpg")
+}
