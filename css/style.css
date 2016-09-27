@@ -8,6 +8,11 @@ h1{
 	padding: 50px, 0px, 25px, 0px;
 }
 
+.row{
+padding-top: 75px
+padding-bottom: 75px
+}
+
 
 .navbar{
     opacity: 0.5;
