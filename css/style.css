@@ -1,11 +1,13 @@
 body{
 overflow-x: hidden;
 font-family: 'Carrois Gothic', sans-serif;
+font-size: 16px;
 }
 h1{
 text-align: center;
-font-size: 300%;
+font-size: 350%;
 padding-bottom: 50px;
+padding-top: 50px;
 }
 h2{
 padding-bottom: 40px;
@@ -22,8 +24,8 @@ margin-botton: 0px;
 padding-bottom: 0px;
 }
 .row{
-padding-top: 75px;
-padding-bottom: 125px;
+padding-top: 0px;
+padding-bottom: 100px;
 }
 .navbar{
 opacity: 0.5;
