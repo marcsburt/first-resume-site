@@ -12,6 +12,13 @@ padding-top: 50px;
 h2{
 padding-bottom: 40px;
 }
+.progress{
+background-color: #ccc;	
+}
+.progress-bar-pad{
+padding-top: 3px;
+padding-bottom: 3px;
+}
 .btn-custom-light{
 color: white;
 background-color:rgba(0, 0, 0, 0.01);
@@ -50,6 +57,7 @@ color: white;
 background-color: rgba(76, 127, 178, 1.0);
 width: 100%;
 margin: 0px;
+padding-bottom: 100px;
 color: #ffffff;
 }
 .navbar-default{
